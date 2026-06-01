@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79119985911",
+    "project_id": "mangosusa-6f5d5",
+    "storage_bucket": "mangosusa-6f5d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79119985911:android:522a999d15076d8a0a37f2",
+        "android_client_info": {
+          "package_name": "com.javiermelendez.mangosusa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeMvoSD-JLWfC57uewpkYTmwdFhVj6oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
